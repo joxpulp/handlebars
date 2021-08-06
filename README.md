@@ -1,2 +1,2 @@
 # handlebars
-Express server with using handlebars for templating
+Express server using handlebars for templating
